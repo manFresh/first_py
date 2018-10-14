@@ -1,3 +1,3 @@
 print("zyl")
-name = input("waiting....")
+name = input("waiting....\n")
 print(name)
